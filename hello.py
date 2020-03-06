@@ -1,6 +1,6 @@
 x=10
 y=40
-z=50
+z=200
 result=x+y+z
 print(result)
 print("I am the new line")
