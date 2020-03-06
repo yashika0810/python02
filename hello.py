@@ -1,5 +1,5 @@
 x=10
-y=40
+y=4
 z=100
 result=x+y+z
 print(result)
