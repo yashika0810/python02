@@ -50,4 +50,5 @@ while grade!=-1:
 
 avg=total/count
 print("avg of subjects",avg)
+print("Added a new line")
     
